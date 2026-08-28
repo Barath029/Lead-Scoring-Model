@@ -1,0 +1,8 @@
+{
+  "best_model": "logistic_regression",
+  "train_rows": 6998,
+  "validation_rows": 1489,
+  "test_rows": 1513,
+  "test_auc": 0.6462387093874984,
+  "test_pr_auc": 0.2371541799018595
+}
